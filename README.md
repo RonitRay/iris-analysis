@@ -1,4 +1,4 @@
-# first-ML-project
+# iris-analysis
 Basic ML project using Python, for modelling and simple analysis on the iris data set.
 
 Based on the tutorial at http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
